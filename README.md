@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <hr />
 
-![GitHub metrics](https://metrics.lecoq.io/lhenriquesouz)  
+ 
 
 <hr />
 
