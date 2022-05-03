@@ -2,8 +2,11 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhenriquesouz&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact&langs_count=7&theme=dracula"/>
 <hr />
+
+
 
  > ## Language and Tools🚀🚀
  > <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="csharp" width="40" height="40"/> </a>
