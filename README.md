@@ -1,10 +1,16 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lhenriquesouz&theme=dracula&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<br />
+Olá, seja bem vindo(a) ao meu GitHub.<br>
+Meu nome é Luis Henrique Souza, e atualmente sou programador backend com foco em PHP na Web.art group.<br>
+Sou apaixonado por técnologia e pela área em si, gosto muito de aprender novas stacks e principalmente poder implementar algo com elas.
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact&langs_count=18&theme=dracula"/>
-<hr />
+Fique a vontade para conhecer meus projetos.<br>
+Estou à disposição, qualquer dúvida só chamar 😉 <br><br>
+
+<div align="center" margin-bottom=3>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact&langs_count=10&theme=dracula"/>
+  <a href="https://github.com/lhenriquesouz">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lhenriquesouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
  > ## Language and Tools🚀🚀
  > <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
