@@ -1,9 +1,9 @@
 ### Hi there 👋
-Olá, seja bem vindo(a) ao meu GitHub.<br>
+> Olá, seja bem vindo(a) ao meu GitHub.<br>
 Meu nome é Luis Henrique Souza, e atualmente sou programador backend com foco em PHP na Web.art group.<br>
 Sou apaixonado por técnologia e pela área em si, gosto muito de aprender novas stacks e principalmente poder implementar algo com elas.
 
-Fique a vontade para conhecer meus projetos.<br>
+> Fique a vontade para conhecer meus projetos.<br>
 Estou à disposição, qualquer dúvida só chamar 😉 <br><br>
 
 <div align="center" margin-bottom=3>
