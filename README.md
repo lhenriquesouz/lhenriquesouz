@@ -1,7 +1,7 @@
 ### Hi there 👋
 > Olá, seja bem vindo(a) ao meu GitHub.<br>
 Meu nome é Luis Henrique Souza, e atualmente sou programador backend com foco em PHP na Web.art group.<br>
-Sou apaixonado por técnologia e pela área em si, gosto muito de aprender novas stacks e principalmente poder implementar algo com elas.
+Sou apaixonado por tecnologia e pela área em si, gosto muito de aprender novas stacks e principalmente poder implementar algo com elas.
 
 > Fique a vontade para conhecer meus projetos.<br>
 Estou à disposição, qualquer dúvida só chamar 😉 <br><br>
@@ -21,9 +21,11 @@ Estou à disposição, qualquer dúvida só chamar 😉 <br><br>
 <code><img height="37" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
  > <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://dada.cs.washington.edu/images/gitlab-icon-rgb.png"></code>
 <hr />
 
