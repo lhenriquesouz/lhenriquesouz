@@ -7,9 +7,9 @@ I am passionate about technology and the field itself, I enjoy learning new stac
 I am available, just give me a shout if you have any questions. 😉 <br><br>
 
 <div align="center" margin-bottom=3>
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact&langs_count=8&theme=dracula"/>
   <a href="https://github.com/lhenriquesouz">
-  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lhenriquesouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lhenriquesouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
 <br>  
