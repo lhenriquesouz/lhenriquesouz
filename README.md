@@ -1,33 +1,21 @@
 ### Hi there 👋
-> Olá, seja bem vindo(a) ao meu GitHub.<br>
-Meu nome é Luis Henrique Souza, e atualmente sou programador backend com foco em PHP na Web.art group.<br>
-Sou apaixonado por tecnologia e pela área em si, gosto muito de aprender novas stacks e principalmente poder implementar algo com elas.
+> Hello, welcome to my GitHub. <br>
+My name is Luis Henrique Souza, and I am currently a backend programmer focused on PHP at Web.art group. <br>
+I am passionate about technology and the field itself, I enjoy learning new stacks and especially being able to implement something with them..
 
-> Fique a vontade para conhecer meus projetos.<br>
-Estou à disposição, qualquer dúvida só chamar 😉 <br><br>
+> Feel free to check out my projects. <br>
+I am available, just give me a shout if you have any questions. 😉 <br><br>
 
 <div align="center" margin-bottom=3>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact&langs_count=10&theme=dracula"/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhenriquesouz&layout=compact&langs_count=8&theme=dracula"/>
   <a href="https://github.com/lhenriquesouz">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=lhenriquesouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lhenriquesouz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+<br>  
 
- > ## Language and Tools🚀🚀
- > <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="react" width="40" height="40"/> </a>
- > <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="50" height="50"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="40" height="40"/> </a>
-<hr />
+ > ## Languages and tools I have knowledge in:  
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,figma,ps,c,cs,java,php,mysql,git,docker,gitlab,postman,regex,visualstudio,vscode,eclipse,linux)](https://skillicons.dev)
 
 ![Profile views](https://gpvc.arturio.dev/lhenriquesouz) 
 <!--
